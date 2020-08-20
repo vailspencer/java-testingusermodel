@@ -16,7 +16,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.Locale;
 
-
 /**
  * SeedData puts both known and random data into the database. It implements CommandLineRunner.
  * <p>
